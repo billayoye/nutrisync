@@ -1,12 +1,14 @@
-import 'package:diet_planner/Screens/login_screen.dart';
-import 'package:diet_planner/Screens/signup_screen.dart';
-import 'package:diet_planner/Widgets/buttons_widget.dart';
-import 'package:diet_planner/Widgets/padding_widget.dart';
-import 'package:diet_planner/Widgets/spacer_widget.dart';
-import 'package:diet_planner/Widgets/text_widget.dart';
+
 // import 'package:diet_planner/main.dart';
-import 'package:diet_planner/theme.dart';
+
 import 'package:flutter/material.dart';
+import 'package:nutrisync/Screens/login_screen.dart';
+import 'package:nutrisync/Screens/signup_screen.dart';
+import 'package:nutrisync/Widgets/buttons_widget.dart';
+import 'package:nutrisync/Widgets/padding_widget.dart';
+import 'package:nutrisync/Widgets/spacer_widget.dart';
+import 'package:nutrisync/Widgets/text_widget.dart';
+import 'package:nutrisync/theme.dart';
 // import 'package:lottie/lottie.dart';
 import 'package:video_player/video_player.dart';
 

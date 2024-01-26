@@ -1,8 +1,9 @@
-import 'package:diet_planner/Screens/bmi_calculator_screen.dart';
-import 'package:diet_planner/Screens/chatgpt_screen.dart';
-import 'package:diet_planner/Screens/home_screen.dart';
-import 'package:diet_planner/theme.dart';
+
 import 'package:flutter/material.dart';
+import 'package:nutrisync/Screens/bmi_calculator_screen.dart';
+import 'package:nutrisync/Screens/chatgpt_screen.dart';
+import 'package:nutrisync/Screens/home_screen.dart';
+import 'package:nutrisync/theme.dart';
 
 class MainHomeScreen extends StatefulWidget {
   const MainHomeScreen({super.key});

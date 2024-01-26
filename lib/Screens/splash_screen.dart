@@ -1,9 +1,9 @@
 import 'package:animated_text_kit/animated_text_kit.dart';
-import 'package:diet_planner/Screens/splash_screen_with_video.dart';
-import 'package:diet_planner/Widgets/spacer_widget.dart';
-import 'package:diet_planner/main.dart';
 // import 'package:diet_planner/theme.dart';
 import 'package:flutter/material.dart';
+import 'package:nutrisync/Screens/splash_screen_with_video.dart';
+import 'package:nutrisync/Widgets/spacer_widget.dart';
+import 'package:nutrisync/main.dart';
 // import 'package:lottie/lottie.dart';
 
 class SPlashScreen extends StatefulWidget {
