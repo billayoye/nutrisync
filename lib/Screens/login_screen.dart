@@ -1,5 +1,12 @@
 
 import 'package:flutter/material.dart';
+import 'package:nutrisync/Screens/main_home_screen.dart';
+import 'package:nutrisync/Screens/signup_screen.dart';
+import 'package:nutrisync/Widgets/buttons_widget.dart';
+import 'package:nutrisync/Widgets/padding_widget.dart';
+import 'package:nutrisync/Widgets/spacer_widget.dart';
+import 'package:nutrisync/Widgets/text_widget.dart';
+import 'package:nutrisync/Widgets/textinput_widget.dart';
 import 'package:nutrisync/theme.dart';
 
 class LoginScreen extends StatefulWidget {

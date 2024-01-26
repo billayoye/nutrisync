@@ -1,5 +1,6 @@
-import 'package:diet_planner/Widgets/text_widget.dart';
+
 import 'package:flutter/material.dart';
+import 'package:nutrisync/Widgets/text_widget.dart';
 
 class HomePageScreen extends StatefulWidget {
   const HomePageScreen({super.key});

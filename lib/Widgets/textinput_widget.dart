@@ -1,5 +1,7 @@
 
 import 'package:flutter/material.dart';
+import 'package:nutrisync/Widgets/spacer_widget.dart';
+import 'package:nutrisync/theme.dart';
 // import 'package:gcmobile/Constants/appcolors.dart';
 
 class TextInputWidget extends StatelessWidget {

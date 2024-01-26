@@ -1,11 +1,9 @@
-
 import 'package:flutter/material.dart';
 import 'package:nutrisync/Screens/splash_screen.dart';
 
-void main() {
+void main(List<String> args) {
   runApp(const MyApp());
 }
-
 double screenHeight = 0;
 double screenWidth = 0;
 

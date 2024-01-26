@@ -1,10 +1,11 @@
-import 'package:diet_planner/Widgets/buttons_widget.dart';
-import 'package:diet_planner/Widgets/padding_widget.dart';
-import 'package:diet_planner/Widgets/spacer_widget.dart';
-import 'package:diet_planner/Widgets/text_widget.dart';
-import 'package:diet_planner/Widgets/textinput_widget.dart';
-import 'package:diet_planner/theme.dart';
+
 import 'package:flutter/material.dart';
+import 'package:nutrisync/Widgets/buttons_widget.dart';
+import 'package:nutrisync/Widgets/padding_widget.dart';
+import 'package:nutrisync/Widgets/spacer_widget.dart';
+import 'package:nutrisync/Widgets/text_widget.dart';
+import 'package:nutrisync/Widgets/textinput_widget.dart';
+import 'package:nutrisync/theme.dart';
 
 class SignupScreen extends StatefulWidget {
   const SignupScreen({super.key});

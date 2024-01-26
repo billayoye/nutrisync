@@ -1,5 +1,6 @@
-import 'package:diet_planner/theme.dart';
+
 import 'package:flutter/material.dart';
+import 'package:nutrisync/theme.dart';
 
 class SpacerWidget extends StatelessWidget {
   const SpacerWidget({super.key, required this.height});
